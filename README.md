@@ -14,7 +14,7 @@ This is a theme for the default Mac OSX Terminal.app that gives you pastel candy
 
 - Open `_follow for more pastel goth_.terminal`. A new Terminal window will open. Ignore it for now
 
-- Go into preferences (⌘ + ,), choose Profiles, and click `_follow for more pastel goth_`.
+- Go into preferences (⌘ + ,), choose Profiles, and click `_follow for more pastel goth_`. Set this as default, so all future terminal windows open with this theme.
 
 - Under `Background`, choose `Image` and select the `Pastels` folder in this repository
 ![Select Pastels folder](Screenshots/folderselect.jpg)
