@@ -2,9 +2,9 @@
 
 This is a theme for the default Mac OSX Terminal.app that gives you pastel candy coloured windows, with each window being a random colour. 
 
-![Sample screenshot](screenshots/example.png)
+![Sample screenshot](Screenshots/example.png)
 
-![Sample screenshot](screenshots/example2.jpg)
+![Sample screenshot](Screenshots/example2.jpg)
 
 ## Installation Instructions
 
@@ -17,7 +17,7 @@ This is a theme for the default Mac OSX Terminal.app that gives you pastel candy
 - Go into preferences (⌘ + ,), choose Profiles, and click `_follow for more pastel goth_`.
 
 - Under `Background`, choose `Image` and select the `Pastels` folder in this repository
-![Select Pastels folder](screenshots/folderselect.jpg)
+![Select Pastels folder](Screenshots/folderselect.jpg)
 
 - _Optional:_ set a font. In the screenshots I use [Iosevka](https://be5invis.github.io/Iosevka/), an open source monospaced font designed for code. 
 
